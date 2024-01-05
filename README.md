@@ -24,9 +24,4 @@ This calculator project is designed to perform basic arithmetic operations, incl
 4. Press the "DEL" button to delete the last entered digit.
 5. Press the "=" button to evaluate the expression and display the result.
 
-## Screenshots
-
-![Calculator Screenshot](Untitled.png)
-
-
 
